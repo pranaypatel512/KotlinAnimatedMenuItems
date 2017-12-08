@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinAnimatedMenuItems</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_action_cut">Cut</string>
+    <string name="title_action_copy">Copy</string>
+    <string name="title_action_delete">Delete</string>
+    <string name="title_action_share">Share</string>
+</resources>
